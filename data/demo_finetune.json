@@ -1,0 +1,68 @@
+[
+    {
+        "id": "00001",
+        "image": "data/images/orange.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDemo instruction 1?"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            },
+            {
+                "from": "human",
+                "value": "Demo instruction 2?"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            },
+            {
+                "from": "human",
+                "value": "Demo instruction 3?"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            }
+        ]
+    },
+    {
+        "id": "00002",
+        "image": "data/images/green.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Demo instruction 1?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            },
+            {
+                "from": "human",
+                "value": "Demo instruction 2?"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            }
+        ]
+    },
+    {
+        "id": "00003",
+        "image": "data/images/yellow.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDemo instruction 1?"
+            },
+            {
+                "from": "gpt",
+                "value": "Demo response."
+            }
+        ]
+    }
+]
