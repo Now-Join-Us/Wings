@@ -24,7 +24,7 @@
 </p> 
 
 <p align="center">
-    🚀 Ask questions or discuss ideas on <a href="https://github.com/AIDC-AI/Wings/discussions" target="_blank"> GitHub </a> or <a href="https://please_add_wx_id.which_is.cifar10" target="_blank"> WeChat </a>
+    🚀 Ask questions or discuss ideas on <a href="https://github.com/AIDC-AI/Wings/discussions" target="_blank"> GitHub </a>
 </p>
 
 <details>
