@@ -20,7 +20,6 @@
 </div>
 <p align="center">
 📝 <a href="https://arxiv.org/abs/2406.03496" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/AIDC-AI/Wings-Qwen1_5-8B" target="_blank">Hugging Face</a>
-  <img src="https://img.shields.io/badge/✉️-zhangyk@lamda.nju-E76030">
 </a>
 </p> 
 
