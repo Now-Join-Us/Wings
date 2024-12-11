@@ -80,8 +80,15 @@ Our experimental results demonstrate that Wings outperforms equally-scaled MLLMs
   
   ```python
   bash run/pretrain_base.sh
-  # Set path for pretrained MLLM
+  # Set path for pretrained MLLM (after stage 1)
   bash run/finetune_base.sh
+  ```
+
++ Inferring
+  
+  ```python
+  # Set path containing the trained safetensors
+  bash run/infer.sh
   ```
 
 ### Citation
