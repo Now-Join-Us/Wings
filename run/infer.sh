@@ -1,1 +1,0 @@
-python infer.py --local_model_path your_path_containing_the_trained_safetensors
