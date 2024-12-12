@@ -21,7 +21,7 @@
 </p> 
 
 <p align="center">
-    🚀 Ask questions or discuss ideas on <a href="https://github.com/AIDC-AI/Wings/discussions" target="_blank"> GitHub </a>
+    🚀 Ask questions or discuss ideas on <a href="https://github.com/AIDC-AI/Wings/issues" target="_blank"> GitHub </a>
 </p>
 
 <details>
